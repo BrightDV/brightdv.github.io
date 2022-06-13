@@ -2,9 +2,9 @@
 
 Box, Box! is a new way to follow Formula 1.
 
-IF YOU FACE ANY ISSUE, PLEASE FILL OUT AN ISSUE.
+If you liked this app, please star the repo ⭐!
 
-## Screeshots
+## Screenshots
 Coming soon...
 
 ## Features
@@ -16,10 +16,10 @@ Coming soon...
 - Enjoy the app event the night with its dark mode.
 - Link to the highlights of the qualifications and the race.
 
-*You need to have Internet access in order to refresh the data.
+**You need to have Internet access in order to refresh the data.*
 
 ## Services
-| Page  | Service          | Base URL |
+| Page  | Service | Base URL |
 | :---------------: |:---------------:| :---------------:|
 | Home News  | Formula 1 API |  https://api.formula1.com |
 | Standings  | Ergast API |  https://ergast.com/mrd |
