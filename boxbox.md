@@ -1,7 +1,3 @@
-layout: page
-title: "Box, Box!"
-permalink: /boxbox/
-
 # Box, Box!
 
 Box, Box! is a new way to follow Formula 1.
