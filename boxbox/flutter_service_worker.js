@@ -28,17 +28,16 @@ const RESOURCES = {
 "assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf": "0a94bab8e306520dc6ae14c2573972ad",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "b00363533ebe0bfdb95f3694d7647f6d",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf": "9cda082bd7cc5642096b56fa8db15b45",
-"assets/NOTICES": "b6b5a1b485a2d0b185377fbd8d49a7ff",
+"assets/NOTICES": "f0dc1ffc14eeee8b6130c064f821c7e1",
 "assets/FontManifest.json": "edaeb9cede3cf5e19864954a8e50c30c",
 "flutter.js": "1cfe996e845b3a8a33f57607e8b09ee4",
-"version.json": "527beccf0c3f92bf39bc8b32f18c5c17",
-"index.html": "e7311e502d445607a474d3fad59eed59",
-"/": "e7311e502d445607a474d3fad59eed59",
+"version.json": "3e9ae332658f399ce565337b559bd716",
+"index.html": "0320ad9ac1eaf9ea6f510fa646a068ad",
+"/": "0320ad9ac1eaf9ea6f510fa646a068ad",
 "favicon.png": "31354e2ea9d10011172c65088525f929",
-"icons/ic_launcher.png": "33e759627ba1b546bb921356170f87b5",
 "icons/Icon-192.png": "33e759627ba1b546bb921356170f87b5",
 "icons/Icon-512.png": "f034c476e9c70c91dbfa4904f1ecb65f",
-"main.dart.js": "8904aa2696f81f496ff43e3b8b7cfafe"
+"main.dart.js": "53b2617077be5a70207ab2414e7048cb"
 };
 
 // The application shell files that are downloaded before a service worker can
